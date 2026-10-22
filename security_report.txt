@@ -1,0 +1,9 @@
+CYBERSECURITY LOG ANALYSIS REPORT
+--------------------------------
+Total valid logins : 5
+Successful logins  : 2
+Failed logins      : 3
+Invalid log entries: 0
+
+SUSPICIOUS IP ADDRESSES:
+203.0.113.25 - 3 failed attempts
